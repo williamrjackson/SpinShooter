@@ -1,2 +1,2 @@
-# SpinShooter
-Original mobile game (wip)
+# Spin Shooter
+![example](SpinShooterExample.gif)   
